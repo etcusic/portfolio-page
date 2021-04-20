@@ -46,6 +46,8 @@ blockquote, q {
 		content: none;
 	}
 
+#profile-pic { border-radius: 50%; }
+
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
@@ -1621,6 +1623,9 @@ input, select, textarea {
 	}
 
 /* Image */
+	#profile-pic {
+		border-radius: 50%;
+	}
 
 	.image {
 		display: inline-block;
